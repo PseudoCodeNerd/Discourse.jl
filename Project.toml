@@ -3,6 +3,14 @@ uuid = "76acad0e-655c-11ea-152f-61f8739526b6"
 authors = ["Madhav Sharma <shekharmadhav03@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"
 
